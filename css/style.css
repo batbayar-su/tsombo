@@ -141,6 +141,7 @@ banner
 #banner{
 	background: url('../img/bg-banner-1.jpg') no-repeat fixed;
 	background-size: cover;
+    background-position: center;
 	min-height: 650px;
 	position: relative;
 }
